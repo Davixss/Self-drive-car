@@ -1,7 +1,5 @@
 # Self-drive-car
-University of Messina A.Y. 2023/2024
-Industrial Automation and Robotics Project
-Prof: Luca Patanè (luca.patane@unime.it)
+University of Messina A.Y. 2023/2024 | Industrial Automation and Robotics Project | Prof: Luca Patanè (luca.patane@unime.it)
 
 [Video] Self-drive car project: https://www.youtube.com/watch?v=pG9rt235eyo
 
@@ -26,6 +24,6 @@ Install tkinder library
 If you have verified the versions and installed the necessary libraries, the programme should work.
 
 Credits:
-Allegra Davide Giuseppe
-Miano Alberto
-Musmeci Edoardo
+- Allegra Davide Giuseppe
+- Miano Alberto
+- Musmeci Edoardo
