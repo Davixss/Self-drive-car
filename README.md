@@ -25,7 +25,7 @@ Install tkinder library
 
 If you have verified the versions and installed the necessary libraries, the programme should work.
 
-Credits:
+# Credits
 - Allegra Davide Giuseppe
 - Miano Alberto
 - Musmeci Edoardo
